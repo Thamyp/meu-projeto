@@ -1,2 +1,0 @@
-peso = int(input("Digite seu peso em quilos: "))
-print("você é pesado, ", peso, "Esse é seu peso"
